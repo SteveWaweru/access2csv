@@ -1,0 +1,8 @@
+*.class
+*.iml
+*.idea
+*.mdb
+*.accdb
+.settings
+.project
+res/*
